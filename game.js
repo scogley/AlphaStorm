@@ -1,4 +1,4 @@
-/* 6/27/14 v1.5 DEV
+/* 6/27/14 Milestone-Release-native-HTML5-only
 added:
 -player collisions with enemy
 -player lives
@@ -7,7 +7,7 @@ added:
 -reward points weighted on speed of enemy
 -banana gun!!!
 */
-var version = "v1.6 debug";
+var version = "Milestone 1 native html5 only";
 var canvasBg = document.getElementById('canvasBg');
 var ctxBg = canvasBg.getContext('2d');
 var canvasJet = document.getElementById('canvasJet');
